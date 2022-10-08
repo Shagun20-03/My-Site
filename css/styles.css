@@ -20,10 +20,13 @@ h2{
     padding-bottom: 10px;
 }
 h3{
-    color: #11999E;
+    color: #03acb2;
     font-family: 'Montserrat', sans-serif;
 }
-
+h4{
+    color:#06cad1;
+    font-family: 'Montserrat', sans-serif;
+}
 p{
     line-height: 2;
 }
@@ -42,7 +45,7 @@ a{
     text-decoration: none;
 }
 a:hover{
-    color: #EAF6F6;
+    color: #8e9b9b;
 }
 
 /*****CLASS SELECTOR*****/
@@ -130,5 +133,3 @@ a:hover{
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
-
-
